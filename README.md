@@ -3,7 +3,7 @@ I'm currently working on a Internet and Web Development Bachelor of Applied Scie
 
 I am working as a Graphic Designer in higher education and would like to expand my skill set to include web development, so I may have more knowledge and control of how my visual contributions are applied through web content.
 
-A fun fact about me is that I drove up the PCH in one of these and had a blast!
+A fun fact about me is that I drove up the PCH in one of these on a road trip from Tucson to Portland, Orgeon and had a blast!
 
 ![vw bus](vwCamper.jpg)
 <!--
