@@ -1,7 +1,7 @@
 ## Hi there I'm Jorge Arteaga👋
 I'm currently working on a Internet and Web Development Bachelor of Applied Science degree at Arizona State University.
 
-I am currently a Graphic Designer in higher education and would like to expand my skill set to include web development, so I may have more knowledge and control of how my visual contributions are applied through web content.
+I am working as a Graphic Designer in higher education and would like to expand my skill set to include web development, so I may have more knowledge and control of how my visual contributions are applied through web content.
 <!--
 **jarteag1/jarteag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
