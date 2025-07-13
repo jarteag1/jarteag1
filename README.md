@@ -3,8 +3,8 @@ I'm currently working on a Internet and Web Development Bachelor of Applied Scie
 
 I am working as a Graphic Designer in higher education and would like to expand my skill set to include web development, so I may have more knowledge and control of how my visual contributions are applied through web content.
 
-Fun fact: I drove up the PCH in one of these and had a blast!
-![alt text](vwCamper.jpeg)
+A fun fact about me is that I drove up the PCH in one of these and had a blast!
+![vw bus](image.jpg)
 <!--
 **jarteag1/jarteag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
